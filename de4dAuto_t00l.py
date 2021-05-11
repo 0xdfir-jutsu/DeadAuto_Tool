@@ -22,7 +22,7 @@ from platform import system
 def sigint_handler(signum, frame):
     os.system("clear")
     print("CTRL+C detected!")
-    print(" \033[1;91m@Good bye\033[1;m")
+    print(" \033[1;Gen@Good bye\033[1;m")
     sys.exit()
 
 
