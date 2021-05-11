@@ -3,7 +3,7 @@ Script: Attack DDoS and Scanning Network
 ![image](https://user-images.githubusercontent.com/68679842/117852769-e2dcaa80-b2b1-11eb-9432-69073cd7ac33.png)
 ## Usage
 ```
-sudo python3 delosNmap.py
+sudo python3 de4dAuto_t00l.py
 ```
 ## Libraries
 ```
